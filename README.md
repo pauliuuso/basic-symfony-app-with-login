@@ -1,2 +1,1 @@
-# Meme Cluster
-
+# Basic symfony 4 app
